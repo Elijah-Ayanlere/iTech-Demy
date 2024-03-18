@@ -865,8 +865,12 @@
 .about-event ul li .singel-event h4 {
 	font-size: 18px;
 }
-.about-bg {
+.about-bg{
+	/* border: 2px solid red; */
+	position: absolute;
+	height: 350px;
 	width: 100%;
+	top: 780px;
 }
 .apply .apply-cont {
 	padding: 25px 30px 30px;
